@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronayertey2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in software engineering and web development 
+- 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on software engineering 
 - 📫 reach me @aaronayertey2022@yahoo.com
 <!---
